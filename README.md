@@ -17,6 +17,8 @@ Tujuan praktikum ini adalah merancang antarmuka web modern menggunakan CSS3 deng
 ├── Screenshots/
 │   ├── Screenshot 2026-10-01 152321.png
 │   └── Screenshot 2026-10-01 152647.png
+├── docs/
+│   └── Dokumentasi_Asisten_AI_UMKM_Pertemuan3.pdf
 ├── index.html
 ├── README.md
 └── style.css
@@ -27,6 +29,7 @@ Tujuan praktikum ini adalah merancang antarmuka web modern menggunakan CSS3 deng
 - `style.css`: Berkas stylesheet CSS3 yang mengatur seluruh tata letak, warna, tipografi, grid/flexbox, dan responsivitas.
 - `README.md`: Berkas dokumentasi lengkap mengenai penjelasan kode, arsitektur tata letak, dan pemetaan materi praktikum.
 - `Screenshots/`: Direktori penyimpan tangkapan layar tampilan antarmuka web pada berbagai ukuran resolusi.
+- `docs/`: Direktori penyimpan berkas dokumen PDF laporan dokumentasi praktikum.
 
 ## Tampilan Website
 
